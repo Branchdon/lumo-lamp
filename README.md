@@ -14,3 +14,5 @@ Im Ordner [Abbildungen](https://github.com/Branchdon/intelligente-lampe/tree/mai
 Das Projekt "Intelligente Lampe" ist von Gruppe 8 des Soft Skills (2025) Moduls der Carl von Ossietzky Universität Oldenburg.
 
 Die Autoren sind Vanessa Cording, Celine Aden, Jannik Seemann, Justus Koch und Brandon Orwoll. 
+
+test
