@@ -5,12 +5,12 @@ Respository für das Gruppen-Projekt "Lumo", die intelligente Lampe.
 Im [Software](https://github.com/Branchdon/intelligente-lampe/tree/main/software) Ordner befindet sich die Software, welche auf den Mikrocontroller geflasht wurde.
 
 ## Hardware
-Im [Hardware](https://github.com/Branchdon/intelligente-lampe/tree/main/hardware) Ordner befinden sich die Informationen, die zum Nachbau der intelligenten Lampe gebraucht werden, wie zum Beispiel 3D-Dateien, Blueprints und so weiter.
+Im [Hardware](https://github.com/Branchdon/intelligente-lampe/tree/main/hardware) Ordner befinden sich die Informationen, die zum Nachbau der intelligenten Lampe gebraucht werden, wie zum Beispiel SVG-Dateien für den Lasercutter, Blueprints und so weiter.
 
 ## Abbildungen 
 Im Ordner [Abbildungen](https://github.com/Branchdon/intelligente-lampe/tree/main/abbildungen) befinden sich alle Abbildungen, die verwendet wurden.
 
 ## Autoren
-Das Projekt "Intelligente Lampe" ist von Gruppe 8 des Soft Skills (2025) Moduls der Carl von Ossietzky Universität Oldenburg.
+Das Projekt "Lumo" ist von Gruppe 8 des Soft Skills (2025) Moduls der Carl von Ossietzky Universität Oldenburg.
 
 Die Autoren sind Vanessa Cording, Celine Aden, Jannik Seemann, Justus Koch und Brandon Orwoll. 
