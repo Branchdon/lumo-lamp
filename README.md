@@ -1,5 +1,5 @@
-# Intelligente Lampe
-Respository für das Gruppen-Projekt "Intelligente Lampe".
+# Lumo
+Respository für das Gruppen-Projekt "Lumo", die intelligente Lampe.
 
 ## Software
 Im [Software](https://github.com/Branchdon/intelligente-lampe/tree/main/software) Ordner befindet sich die Software, welche auf den Mikrocontroller geflasht wurde.
