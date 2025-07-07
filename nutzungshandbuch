@@ -1,1 +1,33 @@
+Verbindung mit dem Arduino
 
+Die Steuerung erfolgt über eine App, die per Bluetooth mit dem 
+Arduino-Modul verbunden ist.(empfohlen:Arduino Bluetooth Control)
+
+Nach dem Start der App wird automatisch nach verfügbaren Geräten gesucht. 
+Nach erfolgreicher Kopplung können sämtliche Funktionen genutzt werden.
+
+Funktionen in der App:
+
+Über die App lassen sich zusätzlich folgende Funktionen manuell steuern:
+
+Per LED/Lamp Menüpunkt:
+Licht ein-/ausschalten
+
+Per RGB Picker Menüpunkt:
+Farbsteuerung: Es stehen nahezu alle Farben zur Auswahl
+
+Per Terminal Menüpunkt:
+Alternativ kann ein RGB-Code eingegeben werden, allerdings sollte man 
+dies nur mit wirklich technischem Hintergrundwissen tun
+Wenn ein RGB-Code genau 9 Ziffern hat, wird er automatisch als gültiger 
+Farbwert im Terminal erkannt und übernommen.
+
+ Zeitschaltung aktivieren/deaktivieren/steuern:
+“einHHMMSS“ bzw. „ausHHMMSS“ setzt den Zeitpunkt des Ein-/bzw Ausschaltens fest.
+Z.B. bei Eingabe „ein221500“ wird die Lampe sich automatisch um 
+22:15 und 00 Sekunden einschalten.
+
+Sachdienlicher Hinweis zu Terminal-Funktionen:
+Das Terminal ist nicht zum Ausprobieren gedacht, sondern richtet 
+sich gezielt an Nutzer:innen mit technischem Hintergrundwissen!!
+Falsche Eingaben können zu unvorhersehbarem Verhalten führen
